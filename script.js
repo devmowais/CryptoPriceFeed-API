@@ -105,7 +105,11 @@ let imgArr = {
     XRP: "./coinImg/xrp.png",
     XTZ: "./coinImg/xtz.png",
     ZEC: "./coinImg/zec.png",
-    ZIL: "./coinImg/zil.png"
+    ZIL: "./coinImg/zil.png",
+    CELO: "./coinImg/celo.png",
+    SNM: "./coinImg/snm.png",
+    YFI: "./coinImg/yfi.png"
+    
 }
 
 console.log(imgArr.length)
